@@ -28,8 +28,8 @@ I build web products end to end: PostgreSQL schemas and migrations, Express APIs
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,prisma,mongodb,firebase,rabbitmq,docker,jest,git,github,vercel&perline=10&theme=dark">
-    <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Material UI, Vite, Node.js, Express, PostgreSQL, Prisma, MongoDB, Firebase, RabbitMQ, Docker, Jest, Git, GitHub, Vercel" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,prisma,mongodb,firebase,rabbitmq,docker,jest,git,github,vercel&perline=10&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,prisma,mongodb,firebase,rabbitmq,docker,jest,git,github,vercel,azure,heroku&perline=11&theme=dark">
+    <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Material UI, Vite, Node.js, Express, PostgreSQL, Prisma, MongoDB, Firebase, RabbitMQ, Docker, Jest, Git, GitHub, Vercel, Azure, Heroku" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,prisma,mongodb,firebase,rabbitmq,docker,jest,git,github,vercel,azure,heroku&perline=11&theme=light">
   </picture>
 </p>
 
@@ -41,7 +41,8 @@ I build web products end to end: PostgreSQL schemas and migrations, Express APIs
 | **Databases** | PostgreSQL (Prisma ORM), MongoDB (Mongoose) |
 | **AI & ML** | Semantic search with text embeddings (Transformers.js, MiniLM), cosine-similarity classification, Google Gemini API, multi-provider LLM configuration |
 | **Integrations** | Stripe, Cloudinary, Firebase (Firestore, Cloud Messaging), Mapbox, Jitsi |
-| **Tooling** | Docker, Docker Compose, Jest, Git, GitHub, Vercel |
+| **Deployment & Cloud** | Azure, DigitalOcean, Heroku, Vercel |
+| **Tooling** | Docker, Docker Compose, Jest, Git, GitHub |
 
 ---
 
@@ -73,7 +74,7 @@ A project-based learning platform where mentors publish MDX courses with graded 
 ## Featured Projects
 
 ### Servizo: AI-Powered Service Marketplace
-*Private repository · built solo*
+*Private repository*
 
 A marketplace that connects people with verified local service providers, with separate seeker, provider and admin workflows: availability-aware booking holds, chat after confirmed bookings, push notifications, provider document verification and an admin analytics dashboard.
 
