@@ -20,7 +20,7 @@ I build web products end to end: PostgreSQL schemas and migrations, Express APIs
 
 - **Now:** open-source contributor to [Pathment](https://github.com/pathment/pathment) and [Edorax](https://github.com/devweekends/Edorax), building full-stack features from database migration to UI.
 - **Background:** recent Software Engineering graduate with hands-on experience in full-stack development, backend engineering and AI integration.
-- **Focus:** TypeScript across the stack, relational data modeling, real-time features, and putting LLMs to work inside real product flows.
+- **Focus:** TypeScript across the stack, relational data modeling, real-time features, and AI inside real product flows: semantic search, text embeddings and LLM integration.
 
 ---
 
@@ -28,8 +28,8 @@ I build web products end to end: PostgreSQL schemas and migrations, Express APIs
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,mongodb,rabbitmq,docker,jest,git,github,vercel&perline=9&theme=dark">
-    <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Material UI, Vite, Node.js, Express, PostgreSQL, MongoDB, RabbitMQ, Docker, Jest, Git, GitHub, Vercel" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,mongodb,rabbitmq,docker,jest,git,github,vercel&perline=9&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,prisma,mongodb,firebase,rabbitmq,docker,jest,git,github,vercel&perline=10&theme=dark">
+    <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Material UI, Vite, Node.js, Express, PostgreSQL, Prisma, MongoDB, Firebase, RabbitMQ, Docker, Jest, Git, GitHub, Vercel" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,prisma,mongodb,firebase,rabbitmq,docker,jest,git,github,vercel&perline=10&theme=light">
   </picture>
 </p>
 
@@ -38,9 +38,9 @@ I build web products end to end: PostgreSQL schemas and migrations, Express APIs
 | **Languages** | TypeScript, JavaScript, SQL |
 | **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Vite |
 | **Backend** | Node.js, Express, REST APIs, Socket.IO, RabbitMQ, Joi |
-| **Databases** | PostgreSQL, MongoDB (Mongoose) |
-| **AI Integration** | Google Gemini API, multi-provider LLM configuration |
-| **Integrations** | Stripe, Cloudinary, Jitsi |
+| **Databases** | PostgreSQL (Prisma ORM), MongoDB (Mongoose) |
+| **AI & ML** | Semantic search with text embeddings (Transformers.js, MiniLM), cosine-similarity classification, Google Gemini API, multi-provider LLM configuration |
+| **Integrations** | Stripe, Cloudinary, Firebase (Firestore, Cloud Messaging), Mapbox, Jitsi |
 | **Tooling** | Docker, Docker Compose, Jest, Git, GitHub, Vercel |
 
 ---
@@ -71,6 +71,19 @@ A project-based learning platform where mentors publish MDX courses with graded 
 ---
 
 ## Featured Projects
+
+### Servizo: AI-Powered Service Marketplace
+*Private repository · built solo*
+
+A marketplace that connects people with verified local service providers, with separate seeker, provider and admin workflows: availability-aware booking holds, chat after confirmed bookings, push notifications, provider document verification and an admin analytics dashboard.
+
+**AI search:** users describe a problem in their own words, in English or Roman Urdu (*"thanda nahi aa raha ac se"*), and a hybrid classifier maps it to one of 11 service categories.
+- Whole-word keyword matching resolves obvious queries such as "plumber" instantly.
+- Other queries are embedded in-process with a multilingual MiniLM model (Transformers.js) and ranked by cosine similarity against 1,446 labeled examples stored in PostgreSQL.
+- Out-of-scope anchors return "no match" instead of a confident wrong category, and a time budget falls back to keywords while the model is still loading on a cold start.
+- Matching providers are ranked by rating, distance, price and experience.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Transformers.js` `Firebase` `Mapbox`
 
 ### [Ecommerce Platform](https://github.com/abdul-rehman1001/Ecommerce)
 A full-stack store with **Gemini-powered natural-language product search**, Stripe checkout with webhook confirmation, authentication with password reset, Cloudinary image uploads, and an admin dashboard for products, categories, users and orders.
