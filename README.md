@@ -7,7 +7,7 @@
 MERN · Next.js · TypeScript · PostgreSQL · AI Development & Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulrehmanimran-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/abdulrehmanimran/)
-[![Merged PRs](https://img.shields.io/github/issues-search?query=is%3Apr%20is%3Amerged%20author%3Aabdul-rehman1001&label=merged%20PRs&style=flat-square&labelColor=24292F&color=2F81F7&logo=github)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aabdul-rehman1001)
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Pathment-2F81F7?style=flat-square&labelColor=24292F&logo=github&logoColor=white)](https://github.com/pathment/pathment/pulls?q=is%3Apr+is%3Amerged+author%3Aabdul-rehman1001)
 ![Location](https://img.shields.io/badge/Lahore,%20Pakistan-24292F?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
@@ -45,25 +45,6 @@ I build web products end to end: PostgreSQL schemas and migrations, Express APIs
 
 ---
 
-## Featured Projects
-
-### [Ecommerce Platform](https://github.com/abdul-rehman1001/Ecommerce)
-A full-stack store with **Gemini-powered natural-language product search**, Stripe checkout with webhook confirmation, authentication with password reset, Cloudinary image uploads, and an admin dashboard for products, categories, users and orders.
-
-`React` `Redux Toolkit` `Tailwind CSS` `Express` `PostgreSQL` `Gemini API` `Stripe`
-
-### [Node.js Microservices](https://github.com/abdul-rehman1001/nodejs-microservices)
-Three independent services (users, tasks, notifications) that communicate **asynchronously through RabbitMQ** rather than direct HTTP calls. Each service has its own Dockerfile, and the stack runs with one `docker compose up`, including a React demo UI that shows events arriving live.
-
-`Node.js` `Express` `MongoDB` `RabbitMQ` `Docker Compose` `React`
-
-### [Real-Time Chat](https://github.com/abdul-rehman1001/Chat_Socket) · [Live demo](https://chat-socket-chi.vercel.app)
-Room-based chat over **Socket.IO** with persisted message history, paginated loading of older messages, per-room unique display names, and API-key and rate-limit middleware on the REST layer.
-
-`React` `Material UI` `Socket.IO` `Node.js` `Express` `MongoDB`
-
----
-
 ## Open-Source Contributions
 
 ### [Pathment](https://github.com/pathment/pathment)
@@ -89,9 +70,19 @@ A project-based learning platform where mentors publish MDX courses with graded 
 
 ---
 
-## Connect With Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Rehman-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/abdulrehmanimran/)
-[![GitHub](https://img.shields.io/badge/GitHub-abdul--rehman1001-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/abdul-rehman1001)
+### [Ecommerce Platform](https://github.com/abdul-rehman1001/Ecommerce)
+A full-stack store with **Gemini-powered natural-language product search**, Stripe checkout with webhook confirmation, authentication with password reset, Cloudinary image uploads, and an admin dashboard for products, categories, users and orders.
 
-I'm happy to talk about full-stack engineering, open-source work, or AI features in production apps.
+`React` `Redux Toolkit` `Tailwind CSS` `Express` `PostgreSQL` `Gemini API` `Stripe`
+
+### [Node.js Microservices](https://github.com/abdul-rehman1001/nodejs-microservices)
+Three independent services (users, tasks, notifications) that communicate **asynchronously through RabbitMQ** rather than direct HTTP calls. Each service has its own Dockerfile, and the stack runs with one `docker compose up`, including a React demo UI that shows events arriving live.
+
+`Node.js` `Express` `MongoDB` `RabbitMQ` `Docker Compose` `React`
+
+### [Real-Time Chat](https://github.com/abdul-rehman1001/Chat_Socket) · [Live demo](https://chat-socket-chi.vercel.app)
+Room-based chat over **Socket.IO** with persisted message history, paginated loading of older messages, per-room unique display names, and API-key and rate-limit middleware on the REST layer.
+
+`React` `Material UI` `Socket.IO` `Node.js` `Express` `MongoDB`
