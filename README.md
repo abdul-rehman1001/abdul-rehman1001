@@ -1,16 +1,108 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abdul-rehman1001/abdul-rehman1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abdul Rehman
 
-Here are some ideas to get you started:
+**Full-Stack Software Engineer** · Open-Source Contributor @ [Pathment](https://github.com/pathment/pathment)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MERN · Next.js · TypeScript · PostgreSQL · AI Development & Integration
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulrehmanimran-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/abdulrehmanimran/)
+[![Merged PRs](https://img.shields.io/github/issues-search?query=is%3Apr%20is%3Amerged%20author%3Aabdul-rehman1001&label=merged%20PRs&style=flat-square&labelColor=24292F&color=2F81F7&logo=github)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aabdul-rehman1001)
+![Location](https://img.shields.io/badge/Lahore,%20Pakistan-24292F?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
+
+I build web products end to end: PostgreSQL schemas and migrations, Express APIs, and React / Next.js interfaces. Most of my recent work ships to **Pathment**, an open-source platform for mentor-led training programs that runs in production at Dev Weekends.
+
+---
+
+## About Me
+
+- **Now:** open-source contributor to [Pathment](https://github.com/pathment/pathment) and [Edorax](https://github.com/devweekends/Edorax), building full-stack features from database migration to UI.
+- **Background:** recent Software Engineering graduate with hands-on experience in full-stack development, backend engineering and AI integration.
+- **Focus:** TypeScript across the stack, relational data modeling, real-time features, and putting LLMs to work inside real product flows.
+
+---
+
+## Technical Skills
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,mongodb,rabbitmq,docker,jest,git,github,vercel&perline=9&theme=dark">
+    <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Material UI, Vite, Node.js, Express, PostgreSQL, MongoDB, RabbitMQ, Docker, Jest, Git, GitHub, Vercel" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,mui,vite,nodejs,express,postgres,mongodb,rabbitmq,docker,jest,git,github,vercel&perline=9&theme=light">
+  </picture>
+</p>
+
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | TypeScript, JavaScript, SQL |
+| **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Vite |
+| **Backend** | Node.js, Express, REST APIs, Socket.IO, RabbitMQ, Joi |
+| **Databases** | PostgreSQL, MongoDB (Mongoose) |
+| **AI Integration** | Google Gemini API, multi-provider LLM configuration |
+| **Integrations** | Stripe, Cloudinary, Jitsi |
+| **Tooling** | Docker, Docker Compose, Jest, Git, GitHub, Vercel |
+
+---
+
+## Featured Projects
+
+### [Ecommerce Platform](https://github.com/abdul-rehman1001/Ecommerce)
+A full-stack store with **Gemini-powered natural-language product search**, Stripe checkout with webhook confirmation, authentication with password reset, Cloudinary image uploads, and an admin dashboard for products, categories, users and orders.
+
+`React` `Redux Toolkit` `Tailwind CSS` `Express` `PostgreSQL` `Gemini API` `Stripe`
+
+### [Node.js Microservices](https://github.com/abdul-rehman1001/nodejs-microservices)
+Three independent services (users, tasks, notifications) that communicate **asynchronously through RabbitMQ** rather than direct HTTP calls. Each service has its own Dockerfile, and the stack runs with one `docker compose up`, including a React demo UI that shows events arriving live.
+
+`Node.js` `Express` `MongoDB` `RabbitMQ` `Docker Compose` `React`
+
+### [Real-Time Chat](https://github.com/abdul-rehman1001/Chat_Socket) · [Live demo](https://chat-socket-chi.vercel.app)
+Room-based chat over **Socket.IO** with persisted message history, paginated loading of older messages, per-room unique display names, and API-key and rate-limit middleware on the REST layer.
+
+`React` `Material UI` `Socket.IO` `Node.js` `Express` `MongoDB`
+
+---
+
+## Open-Source Contributions
+
+### [Pathment](https://github.com/pathment/pathment)
+An open-source operating system for mentor-led training programs: applications, clan placement, task roadmaps, human review, live video and progress analytics. It runs in production at [Dev Weekends](https://devweekends.pathment.me) with 3,000+ registered users.
+
+[![Merged PRs to Pathment](https://img.shields.io/github/issues-search?query=repo%3Apathment%2Fpathment%20is%3Apr%20is%3Amerged%20author%3Aabdul-rehman1001&label=merged%20PRs&style=flat-square&labelColor=24292F&color=2F81F7&logo=github)](https://github.com/pathment/pathment/pulls?q=is%3Apr+is%3Amerged+author%3Aabdul-rehman1001)
+
+| Feature | What I built | PRs |
+| :-- | :-- | :-- |
+| **Candidate selection pools** | A pre-placement System Pool where operators assign work to applicants, score and shortlist them, then place them into clans, backed by an additive schema migration | [#807](https://github.com/pathment/pathment/pull/807) |
+| **Live group discussions** | Jitsi meetings per discussion group with JWT-based moderator roles, invites and reminders, weighted mentor ratings, and automatic task approval, with Jest tests | [#811](https://github.com/pathment/pathment/pull/811) [#813](https://github.com/pathment/pathment/pull/813) |
+| **Program closeout** | Program completion, standing clans and certificate decisions for inactive mentees | [#770](https://github.com/pathment/pathment/pull/770) [#779](https://github.com/pathment/pathment/pull/779) |
+| **Gamification** | Separated XP, spendable coins and performance rank; role-based badges scoped to workspace, program or clan | [#791](https://github.com/pathment/pathment/pull/791) |
+| **AI connections** | Apply one bring-your-own LLM key across all AI features while keeping per-feature overrides | [#785](https://github.com/pathment/pathment/pull/785) |
+| **Platform integration** | Course enrollment through Buildment (now Edorax) and per-app URLs in the platform catalog | [#797](https://github.com/pathment/pathment/pull/797) [#815](https://github.com/pathment/pathment/pull/815) |
+| **Clans & media** | Public clan joining, multi-clan membership, and clan and workspace image upload with cropping | [#725](https://github.com/pathment/pathment/pull/725) [#754](https://github.com/pathment/pathment/pull/754) [#787](https://github.com/pathment/pathment/pull/787) [#794](https://github.com/pathment/pathment/pull/794) |
+
+### [Edorax](https://github.com/devweekends/Edorax)
+A project-based learning platform where mentors publish MDX courses with graded checkpoints.
+
+- **Engagement system:** activity tracking, in-app and email notifications with live updates, XP and weekly leaderboards, and a rule-driven mascot, with tests ([#94](https://github.com/devweekends/Edorax/pull/94))
+- **Mascot voice:** recorded voice clips triggered by engagement rules ([#135](https://github.com/devweekends/Edorax/pull/135))
+
+---
+
+## GitHub Statistics
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdul-rehman1001&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=30363D">
+    <img alt="GitHub contribution streak for abdul-rehman1001" src="https://streak-stats.demolab.com?user=abdul-rehman1001&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=656D76&dates=656D76&stroke=D0D7DE">
+  </picture>
+</p>
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Rehman-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/abdulrehmanimran/)
+[![GitHub](https://img.shields.io/badge/GitHub-abdul--rehman1001-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/abdul-rehman1001)
+
+I'm happy to talk about full-stack engineering, open-source work, or AI features in production apps.
