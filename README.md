@@ -12,15 +12,16 @@ MERN · Next.js · TypeScript · PostgreSQL · AI Development & Integration
 
 </div>
 
-I build web products end to end: PostgreSQL schemas and migrations, Express APIs, and React / Next.js interfaces. Most of my recent work ships to **Pathment**, an open-source platform for mentor-led training programs that runs in production at Dev Weekends.
+I build full-stack web products end to end, from PostgreSQL schemas and Express APIs to React / Next.js interfaces, and I bring in AI where it solves a real user problem. Most of my recent work shipped to **Pathment**, an open-source mentorship platform with 3,000+ users that runs in production at Dev Weekends.
 
 ---
 
 ## About Me
 
-- **Now:** open-source contributor to [Pathment](https://github.com/pathment/pathment) and [Edorax](https://github.com/devweekends/Edorax), building full-stack features from database migration to UI.
-- **Background:** recent Software Engineering graduate with hands-on experience in full-stack development, backend engineering and AI integration.
+- **Experience:** Full-Stack Software Engineer at Dev Weekends (Aug – Oct 2026), shipping features to [Pathment](https://github.com/pathment/pathment) and [Edorax](https://github.com/devweekends/Edorax) from database migration to UI. Before that, Software Engineering Intern at Lofty Logix (Apr – May 2026), building React, Next.js, Express and PostgreSQL features in a team.
+- **AI work:** built multilingual AI search for Servizo that understands problems written in English or Roman Urdu, using MiniLM text embeddings (Transformers.js) and cosine similarity over examples in PostgreSQL. Integrated the Gemini API for product search and recommendations in an e-commerce platform.
 - **Focus:** TypeScript across the stack, relational data modeling, real-time features, and AI inside real product flows: semantic search, text embeddings and LLM integration.
+- **Education:** BS Software Engineering, COMSATS University Islamabad, Lahore Campus (2022 – 2026).
 
 ---
 
