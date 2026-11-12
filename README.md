@@ -76,13 +76,10 @@ A project-based learning platform where mentors publish MDX courses with graded 
 ### Servizo: AI-Powered Service Marketplace
 *Private repository*
 
-A marketplace that connects people with verified local service providers, with separate seeker, provider and admin workflows: availability-aware booking holds, chat after confirmed bookings, push notifications, provider document verification and an admin analytics dashboard.
-
-**AI search:** users describe a problem in their own words, in English or Roman Urdu (*"thanda nahi aa raha ac se"*), and a hybrid classifier maps it to one of 11 service categories.
-- Whole-word keyword matching resolves obvious queries such as "plumber" instantly.
-- Other queries are embedded in-process with a multilingual MiniLM model (Transformers.js) and ranked by cosine similarity against 1,446 labeled examples stored in PostgreSQL.
-- Out-of-scope anchors return "no match" instead of a confident wrong category, and a time budget falls back to keywords while the model is still loading on a cold start.
-- Matching providers are ranked by rating, distance, price and experience.
+- Built a marketplace that connects users with verified local service providers. It has separate seeker, provider and admin workflows, with availability-aware booking holds, chat after confirmed bookings, push notifications and an admin analytics dashboard.
+- Built AI search that maps problems described in English or Roman Urdu to one of 11 service categories with a hybrid classifier. Whole-word keyword matching handles obvious queries. Other queries are embedded with a multilingual MiniLM model (Transformers.js) and ranked by cosine similarity against labeled examples stored in PostgreSQL.
+- Added out-of-scope detection that returns "no match" instead of a confident wrong category, plus a keyword fallback while the model is still loading on a cold start. Matching providers are ranked by rating, distance, price and experience.
+- Implemented provider document verification and admin review so that only trusted providers are listed.
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Transformers.js` `Firebase` `Mapbox`
 
